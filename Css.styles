@@ -1,9 +1,9 @@
 <html>
   <head>
-    <title>As cores</title> 
+    <title>A cor vermelha</title> 
   </head>
   <style>
-   h1, h2 {color = red;}
+   h1, h2 {color= red;}
   body{font-family:SamsungOne;}
   </style>
   <body>
